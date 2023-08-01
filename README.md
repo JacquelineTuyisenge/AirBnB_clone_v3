@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Aloysie Murekatete - [Github](https://github.com/M-Aloysie)
-Jacqueline Tuyisenge - [Guthub](https://github.com/JacquelineTuyisenge)
+* Aloysie Murekatete - [Github](https://github.com/M-Aloysie)
+* Jacqueline Tuyisenge - [Guthub](https://github.com/JacquelineTuyisenge)
 
 Second part of Airbnb: Joann Vuong
 ## License
